@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29009.5
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OnTheBeach.JobSequenceSorting", "OnTheBeach.JobSequenceSorting\OnTheBeach.JobSequenceSorting.csproj", "{6C6B7934-9A24-4799-9B26-2593D8E7FF04}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OnTheBeach.JobSequenceSorting.UnitTest", "OnTheBeach.JobSequenceSorting.UnitTest\OnTheBeach.JobSequenceSorting.UnitTest.csproj", "{FDAA9339-F2F8-4C67-9FB5-7F75FD2BBA58}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6C6B7934-9A24-4799-9B26-2593D8E7FF04}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6C6B7934-9A24-4799-9B26-2593D8E7FF04}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6C6B7934-9A24-4799-9B26-2593D8E7FF04}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6C6B7934-9A24-4799-9B26-2593D8E7FF04}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FDAA9339-F2F8-4C67-9FB5-7F75FD2BBA58}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FDAA9339-F2F8-4C67-9FB5-7F75FD2BBA58}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FDAA9339-F2F8-4C67-9FB5-7F75FD2BBA58}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FDAA9339-F2F8-4C67-9FB5-7F75FD2BBA58}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {3AB937B1-8083-467B-931E-CC9B22FE0F2A}
+	EndGlobalSection
+EndGlobal
